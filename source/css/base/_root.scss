@@ -1,0 +1,116 @@
+//----------------------------------------------------------------------------
+// Root
+//----------------------------------------------------------------------------
+
+// Imports
+@import "normalize";
+@import "base/type";
+
+////////////////////
+// ROOT
+////////////////////
+
+body 
+{
+    margin:0;
+    padding:0;
+    width : 100%;
+    -webkit-font-smoothing: antialiased;
+    font-family: $bs-font-family;
+}
+
+html 
+{
+    -webkit-overflow-scrolling : touch;
+    -webkit-tap-highlight-color : $white-high;
+    -webkit-text-size-adjust : 100%;
+    -ms-text-size-adjust : 100%; 
+
+    input,
+    textarea 
+    {
+        -webkit-appearance: none;
+    }
+}
+
+
+// render media-ready elements at any size
+img, embed, object, video 
+{
+    max-width: 100%;
+}
+
+// for older browsers 
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section 
+{
+    display:block;
+}
+
+// Remove text-shadow in selection highlight: h5bp.com/i
+// These selection declarations have to be separate.
+// Customize the background color to match your design.
+::-moz-selection 
+{
+    background: $highlight-color;
+    color: $highlight-text-color;
+    text-shadow: none;
+}
+
+::selection 
+{
+    background: $highlight-color;
+    color: $highlight-text-color;
+    text-shadow: none;
+}
+
+// Remove the gap between images and the bottom of their containers: h5bp.com/i/440
+img 
+{
+    vertical-align: middle;
+}
+
+// Remove default fieldset styles.
+fieldset 
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+// Allow only vertical resizing of textareas.
+textarea 
+{
+    resize: vertical;
+}
+
+/* corrects `inline-block` display not defined in IE 8/9 */
+audio,
+canvas,
+video 
+{
+    display: inline-block;
+}
+
+/* Addresses styling for `hidden` attribute not present in IE 8/9. */
+
+[hidden] 
+{
+    display: none;
+}
+
+// Use the box-model
+@include border-box-sizing;
+
+/* ==========================================================================
+   Chrome Frame prompt
+   ========================================================================== */
+
+.chromeframe 
+{
+    margin: 0.2em 0;
+    padding: 0.2em 0;
+    background: #ccc;
+    color: #000;
+}
+

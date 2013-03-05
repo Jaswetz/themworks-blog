@@ -1,0 +1,193 @@
+//----------------------------------------------------------------------------
+// settings.scss
+// Imports, settings, and variables
+//----------------------------------------------------------------------------
+
+///////////
+// Debug //
+///////////
+
+$DEBUG: false;
+
+
+//////////
+// Grid //
+//////////
+
+$total-columns      : 16;
+$column-width       : 4.9342105%;
+$gutter-width       : 1.4035088%;
+$grid-padding       : 0;
+
+$gtr : $base-leader ;
+$gtr-large: $base-leader * 2;
+
+$bs-unit: 1rem;
+
+
+/////////////
+// Compass //
+/////////////
+
+// Set the global compass vars.
+$legacy-support-for-ie6: false;
+$legacy-support-for-ie7: false;
+$legacy-support-for-ie8: true;
+$legacy-support-for-mozilla: false;
+
+// IE9 SVG, needs conditional override of 'filter' to 'none'
+$experimental-support-for-svg: true;
+
+
+
+////////////
+// Colors //
+////////////
+
+// Grays
+$black						: rgb(0,0,0) ;
+$gray-dark					: lighten($black, 25%) ;
+$gray 						: lighten($black, 50%) ;
+$gray-light 				: lighten($black, 75%) ;
+$gray-lighter				: lighten($black, 90%) ;
+$white						: snow ;
+
+// Colors
+$red 						: #e35d5b ;
+$orange 					: #e8632c ;
+$yellow 					: #e8b000 ;
+$green 						: #b1cc00 ;
+$cyan						: #0e93a9 ;
+$cyanDark					: #074655 ;
+$blue 						: #4ca2df ;
+$blueLight					: #0caad7 ;
+$violet 					: #9094d3 ;
+$magenta 					: #dc609c ;
+
+// Transparents
+$white-high   				: transparentize($white, .90) ;
+$white-vhigh			    : transparentize($white, .70) ;
+$white-med					: transparentize($white, .50) ;
+$white-low		            : transparentize($white, .30) ;
+$white-vlow			        : transparentize($white, .10) ;
+
+$black-high   	 			: transparentize($black, .90) ;
+$black-vhigh		 		: transparentize($black, .70) ;
+$black-med		 			: transparentize($black, .50) ;
+$black-low		 			: transparentize($black, .30) ;
+$black-vlow		 			: transparentize($black, .10) ;
+
+// Color Scheme
+$bs-color              		: $blue ;
+$bs-highlight 				: tint($bs-color, 30%) ;
+$bs-dim 					: shade($bs-color, 20%) ;
+
+// Text Highlight
+$highlight-text-color       : tint($bs-color, 80%);;
+$highlight-color            : $bs-color;
+
+// Text
+$bs-type-color 				: $gray;
+
+// Links
+$link-color		    		: $bs-color ;
+$link-accent				: tint($link-color, 30%) ;
+$link-hover 				: darken($link-color, 10) ;
+$link-visited   			: $link-color ;
+$link-focus					: darken($link-visited, 10) ;
+
+
+////////////////
+// Box Shadow //
+////////////////
+
+$default-box-shadow-color 	: rgba(51,51,51,.2); 
+$default-box-shadow-h-offset: 0px;				
+$default-box-shadow-v-offset: 0px;				
+$default-box-shadow-blur	: 8px;				
+$default-box-shadow-spread 	: false;			
+$default-box-shadow-inset	: false;			
+
+
+////////////
+// Border //
+////////////
+
+$border-width               : .2em;
+$border-style               : solid;
+$border-color               : $bs-color;
+$default-border-radius		: .5rem;
+
+
+////////////////
+// TYPOGRAPHY //
+////////////////
+	
+$bs-font-size 					: 16px;
+$bs-font-family 				: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$bs-line-height 				: 24px;
+
+$alt-font-family              	: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$alt-line-height              	: 1.35em;
+
+$fixed-font 					: Monaco, Courier New, monospace;
+
+$h-font-family		    		: $alt-font-family;      
+$h-font-weight		    		: bold;    			           					
+$font-shadow-inset 			    : rgba($black, 0.6);
+
+$rhythm-unit                    : rem;
+$rem-with-px-fallback           : true;
+$round-to-nearest-half-line     : true;
+
+// Headings
+
+$header-stack  					: $alt-font-family;
+$header-weight                  : bold;
+
+/////////////////////
+// Vertical Rythem //
+/////////////////////
+
+$default-rhythm-border-style: solid;
+$relative-font-sizing 		: true;
+$round-to-nearest-half-line : false;
+$min-line-padding			: 2px;
+$font-unit					: if($relative-font-sizing, 1em, $base-font-size);
+
+
+////////////////
+// Box Shadow //
+////////////////
+
+$default-box-shadow-color 	: rgba(51,51,51,.2); 
+$default-box-shadow-h-offset: 0px;				
+$default-box-shadow-v-offset: 0px;				
+$default-box-shadow-blur	: 8px;				
+$default-box-shadow-spread 	: false;			
+$default-box-shadow-inset	: false;			
+
+
+/////////////
+// Z-INDEX //
+/////////////
+
+// Z-index master list
+// Used for a bird's eye view of components dependent on the z-axis
+// Try to avoid customizing these :)
+$z-drpDwn					: 1000 ;
+$zindexPopover				: 1010 ;
+$zindexTooltip				: 1020 ;
+$zindexFixedNavbar			: 1030 ;
+$zindexModalBackdrop		: 1040 ;
+$zindexModal 				: 1050 ;
+
+
+/////////////
+// Imports //
+/////////////
+
+@import "mixins"; //custom mixins
+@import "layouts";
+@import "styles";
+

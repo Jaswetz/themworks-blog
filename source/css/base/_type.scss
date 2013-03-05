@@ -1,0 +1,74 @@
+//----------------------------------------------------------------------------
+// type  
+// Base Type Styles Using Modular Scale 
+//----------------------------------------------------------------------------
+
+// Establis Compass Baseline
+@include establish-baseline;
+
+////////////
+// Styles //
+////////////
+
+body,div,dl,dt,dd,ul,ol,li,
+h1,h2,h3,h4,h5,h6,pre,
+form,p,blockquote,th,td,button,
+input,select,textarea 
+{
+    color: $bs-type-color;
+}
+
+
+//////////
+// Body //
+//////////
+
+p,
+ol,
+ul,
+dl,
+address 
+{
+  @include rhythm(.5, 0, 0, .5, 16px);
+  font-family: $bs-font-family;
+  text-shadow: $white 1px 1px 0;
+
+  small 
+  {
+    @include rhythm(1, 0, 0, 1, 12px);
+  }
+}
+
+p
+{
+  display: inline-block;
+}
+
+
+///////////
+// LINKS //
+///////////
+
+a 
+{
+  color: $bs-color; 
+  text-decoration: none; 
+}
+
+a:hover 
+{
+  color: lighten($bs-color, 10%);
+}
+
+
+/////////////
+// Headers //
+/////////////
+
+h1, h2, h3, h4, h5, h6 
+{
+  margin: 0;
+  font-family: $header-stack;
+  font-weight: $header-weight;
+  text-rendering: optimizelegibility; // Fix the character spacing for headings
+}

@@ -1,0 +1,60 @@
+//----------------------------------------------------------------------------
+// Styles  
+//----------------------------------------------------------------------------
+
+// Animations
+%df-trans
+{
+	@include transition-property(all);
+	@include transition-duration(.2s);
+	@include transition-timing-function(ease-in);
+}
+
+// Shapes
+
+%circle
+{
+	@include border-radius(50%);
+}
+
+// Shadows
+
+%inset-border
+{
+	@include box-shadow(0 2px 0 $white inset);
+}
+
+%shadow-full
+{
+	@include box-shadow(0 0 5px 0 rgba(51, 51, 51, .45));
+}
+
+// Borders
+
+%border
+{
+	border: $border-width $border-style $border-color;
+}
+
+// Gradients
+
+// Elements and Figures
+%dot-pattern
+{
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAGklEQVQIW2NkQAKMIPbL1+/+i4sKMYI5MAAATXkEBOSqHasAAAAASUVORK5CYII=) repeat;
+}
+
+// Buttons
+
+%btn
+{
+	/* Box */
+	display: inline-block;
+
+	/* Text */
+	text-decoration: none;
+
+	/* Other */
+	@extend %df-trnsfrm;
+}
+
