@@ -11,24 +11,21 @@ require 'susy'
 #   config.output_style = :compact
 # end
 
-activate :directory_indexes
+# activate :directory_indexes
+set :index_file, "index.html"
 
 #MARKDOWN
-
 set :markdown_engine, :redcarpet
 set :markdown,  :fenced_code_blocks => true,
                 :autolink => true, 
                 :smartypants => true
 
-
-# BLOG
-# page "blog/*", :layout => :article
-
 activate :blog do |blog|
   blog.permalink = ":title"
-  blog.layout = "article.html"
+  blog.sources = "blog/:title.html"
+  # blog.layout = "article"
   blog.default_extension = ".md"
-  blog.prefix = "blog"
+  # blog.prefix = "blog"
 end
 
 
@@ -37,7 +34,8 @@ end
 # Page options, layouts, aliases and proxies
 ###
 
-
+# BLOG
+page "blog/*", :layout => :article
 
 # Per-page layout changes:
 #
@@ -89,7 +87,7 @@ configure :build do
   # activate :cache_buster
 
   # Use relative URLs
-  activate :relative_assets
+  # activate :relative_assets
 
   # Compress PNGs after build
   # First: gem install middleman-smusher

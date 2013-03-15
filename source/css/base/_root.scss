@@ -2,10 +2,6 @@
 // Root
 //----------------------------------------------------------------------------
 
-// Imports
-@import "normalize";
-@import "base/type";
-
 ////////////////////
 // ROOT
 ////////////////////
@@ -15,16 +11,12 @@ body
     margin:0;
     padding:0;
     width : 100%;
-    -webkit-font-smoothing: antialiased;
-    font-family: $bs-font-family;
 }
 
 html 
 {
     -webkit-overflow-scrolling : touch;
     -webkit-tap-highlight-color : $white-high;
-    -webkit-text-size-adjust : 100%;
-    -ms-text-size-adjust : 100%; 
 
     input,
     textarea 

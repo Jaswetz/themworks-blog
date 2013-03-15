@@ -23,6 +23,21 @@
 }	
 
 
+/////////////
+// Spacing //
+/////////////
+
+%lead-padding-1
+{
+	@include leader(1, $bs-font-size, padding);
+}
+
+%trailer-padding-1
+{
+	@include trailer(1, $bs-font-size, padding);
+}
+
+
 ////////////
 // Resets //
 ////////////
@@ -34,10 +49,14 @@
 	list-style: none;
 }
 
-
 ///////////
 // Hides //
 ///////////
+
+%hide-text
+{
+	@include hide-text();
+}
 
 // hide from both screenreaders and browsers: h5bp.com/u
 %hidden 

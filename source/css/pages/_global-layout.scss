@@ -2,8 +2,15 @@
 // Global Layout  
 //----------------------------------------------------------------------------
 
+body
+{
+	@extend %main-bckg;
+}
+
 .page
 {
 	@include container;
 	max-width: 600px; 
+	@include leader(1, $bs-font-size, margin);
+	@include trailer(1, $bs-font-size, margin);
 }

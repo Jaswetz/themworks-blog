@@ -1,22 +1,35 @@
 //----------------------------------------------------------------------------
-// type  
-// Base Type Styles Using Modular Scale 
+// type.scs  
+// for typography and typographical rhythm
 //----------------------------------------------------------------------------
 
-// Establis Compass Baseline
-@include establish-baseline;
+//////////
+// Root //
+//////////
+
+html
+{
+    -webkit-text-size-adjust : 100%;
+    -ms-text-size-adjust : 100%; 
+}
+
+body
+{
+    -webkit-font-smoothing: antialiased;
+    font-family: $bs-font-family;
+}
+
+///////////////
+// Includes  //
+///////////////
+
+//TypePlate
+@import "base/typeplate";
+
 
 ////////////
 // Styles //
 ////////////
-
-body,div,dl,dt,dd,ul,ol,li,
-h1,h2,h3,h4,h5,h6,pre,
-form,p,blockquote,th,td,button,
-input,select,textarea 
-{
-    color: $bs-type-color;
-}
 
 
 //////////
@@ -29,14 +42,7 @@ ul,
 dl,
 address 
 {
-  @include rhythm(.5, 0, 0, .5, 16px);
   font-family: $bs-font-family;
-  text-shadow: $white 1px 1px 0;
-
-  small 
-  {
-    @include rhythm(1, 0, 0, 1, 12px);
-  }
 }
 
 p
@@ -67,8 +73,14 @@ a:hover
 
 h1, h2, h3, h4, h5, h6 
 {
-  margin: 0;
   font-family: $header-stack;
-  font-weight: $header-weight;
-  text-rendering: optimizelegibility; // Fix the character spacing for headings
+}
+
+
+time
+{
+  background: orange;
+  padding: .2rem 1.1rem;
+  border-radius: .5rem;
+  color: snow;
 }

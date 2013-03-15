@@ -4,7 +4,18 @@ layout: article
 
 <% wrap_layout :layout do %>
   <article>
-    <h1><%= current_page.title %></h1>
-    <%= yield %>
+  	<header class="entry-header entry-meta">
+	    <h1><%= current_page.title %></h1>
+	    	<div class="by-author"> 
+				<span class="author vcard entry-author">
+					<span class="by">by</span>
+					<a href="#" title="View all posts by ivan" rel="author">Ivan</a>
+				</span>
+				 <time class="entry-date"></time>
+			</div><!-- \by-author -->	
+	</header>
+    <div class="entry-content">
+    	<%= yield %>
+    </div>
   </article>
 <% end %>

@@ -10,6 +10,14 @@
 	@include transition-timing-function(ease-in);
 }
 
+// Backgrounds
+
+%main-bckg
+{
+	background-color: $cream;
+  // background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAN0lEQVQYV2P8++3xfwYg+PjpEwM/Hx+ICWeDxBhBCrBJwhQyvntx9T+6TmRTwCbgsgIkPhisAABhsFoFXOaZYAAAAABJRU5ErkJggg==);
+}
+
 // Shapes
 
 %circle
@@ -55,6 +63,6 @@
 	text-decoration: none;
 
 	/* Other */
-	@extend %df-trnsfrm;
+	@extend %df-trans;
 }
 

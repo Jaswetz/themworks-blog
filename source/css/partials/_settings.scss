@@ -22,8 +22,6 @@ $grid-padding       : 0;
 $gtr : $base-leader ;
 $gtr-large: $base-leader * 2;
 
-$bs-unit: 1rem;
-
 
 /////////////
 // Compass //
@@ -82,12 +80,18 @@ $bs-color              		: $blue ;
 $bs-highlight 				: tint($bs-color, 30%) ;
 $bs-dim 					: shade($bs-color, 20%) ;
 
+$cream						: #fdfaf0;
+$creamDark					: #dfd4b1;
+$creamTransMed				: transparentize(#fdfaf0, .5);
+
+// Type
+$bs-type-color: $gray-dark;
+$body-copy-color: #444;
+$heading-color: #222;
+
 // Text Highlight
 $highlight-text-color       : tint($bs-color, 80%);;
 $highlight-color            : $bs-color;
-
-// Text
-$bs-type-color 				: $gray;
 
 // Links
 $link-color		    		: $bs-color ;
@@ -122,39 +126,34 @@ $default-border-radius		: .5rem;
 ////////////////
 // TYPOGRAPHY //
 ////////////////
-	
-$bs-font-size 					: 16px;
-$bs-font-family 				: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$bs-line-height 				: 24px;
 
+// Font Stacks
+$bs-font-family 				: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $alt-font-family              	: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$fixed-font 					: Monaco, Courier New, monospace;  
+
+
+// ---------------------------------------------------------------------------
+// Vertical Rythem
+
+$bs-line-height 				: 24px;
+$bs-font-size 					: 16px;
+
 $alt-line-height              	: 1.35em;
 
-$fixed-font 					: Monaco, Courier New, monospace;
-
-$h-font-family		    		: $alt-font-family;      
-$h-font-weight		    		: bold;    			           					
-$font-shadow-inset 			    : rgba($black, 0.6);
-
-$rhythm-unit                    : rem;
-$rem-with-px-fallback           : true;
-$round-to-nearest-half-line     : true;
-
 // Headings
-
 $header-stack  					: $alt-font-family;
 $header-weight                  : bold;
 
-/////////////////////
-// Vertical Rythem //
-/////////////////////
+$rhythm-unit                    : rem;
+$rem-with-px-fallback           : true;
+$default-rhythm-border-style    : solid;
+$relative-font-sizing 		    : true;
+$round-to-nearest-half-line     : true;
+$min-line-padding			    : 2px;
+$font-unit					    : if($relative-font-sizing, 1em, $base-font-size);
 
-$default-rhythm-border-style: solid;
-$relative-font-sizing 		: true;
-$round-to-nearest-half-line : false;
-$min-line-padding			: 2px;
-$font-unit					: if($relative-font-sizing, 1em, $base-font-size);
-
+// Vertical Rythem ------
 
 ////////////////
 // Box Shadow //
