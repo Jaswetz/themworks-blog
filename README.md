@@ -2,4 +2,5 @@
 
 ## Technology
 
-Scss, CSS, Middleman, JavaScript
+Scss, CSS, Middleman, JavaScript, Boilerplate
+
