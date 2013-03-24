@@ -67,6 +67,20 @@ a:hover
 }
 
 
+////////////////
+// Paragraphs //
+////////////////
+
+p {
+  margin: 0 0 $indent-val;
+  // & + p {
+  //   //siblings indentation
+  //   text-indent: $indent-val;
+  //   margin-top: -$indent-val;
+  // }
+}
+
+
 /////////////
 // Headers //
 /////////////
@@ -77,10 +91,3 @@ h1, h2, h3, h4, h5, h6
 }
 
 
-time
-{
-  background: orange;
-  padding: .2rem 1.1rem;
-  border-radius: .5rem;
-  color: snow;
-}

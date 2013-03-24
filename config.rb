@@ -1,3 +1,7 @@
+#Livereload
+activate :livereload
+
+
 ###
 # Compass
 ###
@@ -23,8 +27,9 @@ set :markdown,  :fenced_code_blocks => true,
 activate :blog do |blog|
   blog.permalink = ":title"
   blog.sources = "blog/:title.html"
-  # blog.layout = "article"
+  blog.layout = "layouts/article"
   blog.default_extension = ".md"
+  blog.tag_template  = "layouts/tag.html"
   # blog.prefix = "blog"
 end
 
@@ -35,7 +40,7 @@ end
 ###
 
 # BLOG
-page "blog/*", :layout => :article
+# page "blog/*", :layout => :article  
 
 # Per-page layout changes:
 #

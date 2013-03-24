@@ -5,13 +5,13 @@ layout: article
 <% wrap_layout :layout do %>
   <article>
   	<header class="entry-header entry-meta">
-	    <h1><%= current_page.title %></h1>
+	    <h1 class="entry-header"><%= current_page.title %></h1>
 	    	<div class="by-author"> 
 				<span class="author vcard entry-author">
 					<span class="by">by</span>
-					<a href="#" title="View all posts by ivan" rel="author">Ivan</a>
+					<span rel="author"><%= current_page.data.author %></span>
 				</span>
-				 <time class="entry-date"></time>
+				 <time class="entry-date"><%= current_page.date.strftime('%b %e %Y') %></time>
 			</div><!-- \by-author -->	
 	</header>
     <div class="entry-content">
