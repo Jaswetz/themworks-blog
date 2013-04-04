@@ -1,0 +1,44 @@
+//----------------------------------------------------------------------------
+// Blog List  
+//----------------------------------------------------------------------------
+
+
+.blog-list.item
+{
+	margin-top: $unit-xl;
+	// padding-bottom: $unit;
+	// border-bottom: 2px solid darken(adjust_hue($cream, 1), 5);
+	margin-bottom: $unit-xxxl;
+
+	.divider
+	{
+		margin-top: $unit;
+		display: block;
+		color: $gray;
+		text-align: right;
+	}
+
+	h3
+	{
+		margin-top: $unit-l;
+	}
+}
+
+h3 a
+{
+	color: $gray-dark;
+}
+
+
+time
+{
+	padding-right: $unit-xs;
+	margin-top: $unit;
+	margin-bottom: $unit-xl;
+	text-align: right;
+  	// text-align: center;
+  	display: block;
+  	font-style: italic;
+ 
+  	background: white;
+}

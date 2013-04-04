@@ -34,7 +34,6 @@ activate :blog do |blog|
 end
 
 
-
 ###
 # Page options, layouts, aliases and proxies
 ###

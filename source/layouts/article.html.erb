@@ -1,21 +1,41 @@
 ---
 layout: article
 ---
+         <header class="primary-header">
+            <div class="primary-header- wrap"></div>
+            <% wrap_layout :layout do %>
+	  <article>
+	  	<header class="entry-header entry-meta">
+		    <h1 class="entry-header"><%= current_page.title %></h1>
+		    <time class="entry-date"><%= current_page.date.strftime('%b %e %Y') %></time>
+		</header>
+	  </article>
+	<% end %>
+            <div class="branding-colors">
+                <div class="orange"></div>
+                <div class="red"></div>
+                <div class="yellow"></div>
+            </div>
+        </header>
 
-<% wrap_layout :layout do %>
-  <article>
-  	<header class="entry-header entry-meta">
-	    <h1 class="entry-header"><%= current_page.title %></h1>
-	    	<div class="by-author"> 
-				<span class="author vcard entry-author">
-					<span class="by">by</span>
-					<span rel="author"><%= current_page.data.author %></span>
-				</span>
-				 <time class="entry-date"><%= current_page.date.strftime('%b %e %Y') %></time>
-			</div><!-- \by-author -->	
-	</header>
-    <div class="entry-content">
-    	<%= yield %>
-    </div>
-  </article>
-<% end %>
+<div class="page">  
+
+	<% wrap_layout :layout do %>
+	  <article>
+	  	<header class="entry-header entry-meta">
+		    <h1 class="entry-header"><%= current_page.title %></h1>
+		    	<div class="by-author"> 
+					<span class="author vcard entry-author">
+						<span class="by">by</span>
+						<span rel="author"><%= current_page.data.author %></span>
+					</span>
+					 <time class="entry-date"><%= current_page.date.strftime('%b %e %Y') %></time>
+				</div><!-- \by-author -->	
+		</header>
+	    <div class="entry-content">
+	    	<%= yield %>
+	    </div>
+	  </article>
+	<% end %>
+
+</div>
