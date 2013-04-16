@@ -25,7 +25,7 @@ set :markdown,  :fenced_code_blocks => true,
                 :smartypants => true
 
 activate :blog do |blog|
-  blog.permalink = ":title"
+  blog.permalink = ":title.html"
   blog.sources = "blog/:title.html"
   blog.layout = "layouts/article"
   blog.default_extension = ".md"

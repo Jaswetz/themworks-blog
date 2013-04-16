@@ -56,4 +56,4 @@ Vagrantfile
 # Ignore bundler config
 /.bundle
 # Ignore the build directory
-/build
+# /build

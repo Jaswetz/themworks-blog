@@ -1,0 +1,2820 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"lighten	lighten"
+			],
+			[
+				"cmn",
+				"cmnt secn	comment-section"
+			],
+			[
+				"wid",
+				"innerWidth  (variable)"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"toggle",
+				"toggleClass  (function)"
+			],
+			[
+				"trans",
+				"transition	transition"
+			],
+			[
+				"tran",
+				"transition	transition"
+			],
+			[
+				"cla",
+				"class2"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"thumb",
+				"thumbnail"
+			],
+			[
+				"thumbn",
+				"thumbnailWidth"
+			],
+			[
+				"thumbnail",
+				"thumbnail_container"
+			],
+			[
+				"thumbnailW",
+				"thumbnailContainerWidth"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"out",
+				"outerWidth  (function)"
+			],
+			[
+				"thu",
+				"thumbnail_container"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sort",
+				"sortThumbnails"
+			],
+			[
+				"thum",
+				"thumbnailHeight"
+			],
+			[
+				"deb",
+				"debug-remainder"
+			],
+			[
+				"th",
+				"thumbnail"
+			],
+			[
+				"add",
+				"addClass  (function)"
+			],
+			[
+				"bckg",
+				"background-image:   (property)"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"over",
+				"overflow-y:   (property)"
+			],
+			[
+				"font-sty",
+				"font-style:   (property)"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"tra",
+				"trailer	trailer"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"tr",
+				"trailer	trailer"
+			],
+			[
+				"gray",
+				"grayDark"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"bor",
+				"border	border"
+			],
+			[
+				"bak",
+				"background-size"
+			],
+			[
+				"bord",
+				"border	border2"
+			],
+			[
+				"sha",
+				"shadow	shadow"
+			],
+			[
+				"cal",
+				"calc-em	calc-em"
+			],
+			[
+				"calc",
+				"calc-rem	calc-rem"
+			],
+			[
+				"form",
+				"formClr"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"email",
+				"email_body"
+			],
+			[
+				"cmnt",
+				"cmnt head	comment-head"
+			],
+			[
+				"a",
+				"after"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "layouts/article.html.erb",
+			"settings":
+			{
+				"buffer_size": 561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/pages/_global-layout.scss",
+			"settings":
+			{
+				"buffer_size": 347,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/modules/_article-menu.scss",
+			"settings":
+			{
+				"buffer_size": 4330,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/partials/_settings.scss",
+			"settings":
+			{
+				"buffer_size": 4816,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html.erb",
+			"settings":
+			{
+				"buffer_size": 422,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/partials/_layouts.scss",
+			"settings":
+			{
+				"buffer_size": 1716,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css.scss",
+			"settings":
+			{
+				"buffer_size": 507,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/partials/_styles.scss",
+			"settings":
+			{
+				"buffer_size": 1347,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 810,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/modules/_header.scss",
+			"settings":
+			{
+				"buffer_size": 1214,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jasonds/Sites/themworks/blog-middleman/middleman-html5-blog/config.rb",
+			"settings":
+			{
+				"buffer_size": 2184,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"Sort via CSScomb"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"dec",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"comb",
+				"Sort via CSScomb"
+			],
+			[
+				"deco",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"decor",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"snippet: bas",
+				"Snippet: basic-unit"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"bra",
+				"Bracket Highlighter: Select Bracket Content"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jasonds/Sites/themworks/blog-middleman/middleman-html5-blog/README.md",
+		"/Users/jasonds/Sites/personal/tutorials/lynda-sortable-photo-gallery/src/includes/sortable_gallery.js",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/js/main.js",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/layouts/head.erb",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/layouts/foot.erb",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/css/partials/_styles.scss",
+		"/Users/jasonds/Sites/themworks/themworks-blog/config.rb",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/index.html.erb",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/layouts/calendar.html.erb",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/layouts/article-list.erb",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/layouts/layout_article.erb",
+		"/Users/jasonds/Sites/themworks/themworks-blog/Gemfile",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/layouts/article.html.erb",
+		"/Users/jasonds/Sites/personal/tutorials/lynda-sortable-photo-gallery/src/includes/jquery.fancybox-1.3.4/style.css",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-Patient-Characteristics-v1.0-EN-R1/js/main.js",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-Patient-Characteristics-v1.0-EN-R1/css/main.css",
+		"/Users/jasonds/Sites/themworks/picmarks/sass/pages/_global-layout.scss",
+		"/Users/jasonds/Sites/themworks/picmarks/sass/main.scss",
+		"/Users/jasonds/Sites/themworks/picmarks/sass/partials/_settings.scss",
+		"/Users/jasonds/Sites/themworks/picmarks/index.php",
+		"/Users/jasonds/Sites/themworks/picmarks/sass/partials/_styles.scss",
+		"/Users/jasonds/Sites/themworks/picmarks/sass/base/_root.scss",
+		"/Users/jasonds/Sites/themworks/picmarks/sass/base/_type.scss",
+		"/Users/jasonds/Sites/themworks/picmarks/config.rb",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-CARES-v1.0-EN-R1/xml/Content.xml",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-Medicare-v1.0-EN-R1/xml/Content.xml",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-Progression-Sell-Sheet-v1.0-en-R1/xml/Content.xml",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-Medicare-v1.0-EN-R1/iNGSA-Content-Jevtana-Medicare-v1.0-EN-R1-p7.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-CARES-v1.0-EN-R1/INX-Jevtana-Cares-v1.0-R1-p4.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Zaltrap-branded-v2.0-EN-R1/INX-Zaltrap-v2.0-R1-p6.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/ingsa_config.xml",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-Progression-Sell-Sheet-v1.0-en-R1/iNGSA-Content-Jevtana-Progression-Sell-Sheet-v1.0-en-R1-p4.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-Progression-Sell-Sheet-v1.0-en-R1/css/main.css",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-Progression-Sell-Sheet-v1.0-en-R1/iNGSA-Content-Jevtana-Progression-Sell-Sheet-v1.0-en-R1-isi.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-Progression-Sell-Sheet-v1.0-en-R1/iNGSA-Content-Jevtana-Progression-Sell-Sheet-v1.0-en-R1-p2.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-CARES-v1.0-EN-R1/INX-Jevtana-Cares-v1.0-R1-p5.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-Progression-Sell-Sheet-v1.0-en-R1/INX-Jevtana-v1.0-R3-1.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-branded-v1.0-EN-R3/INX-Jevtana-v1.0-R3-12.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-CARES-v1.0-EN-R1/INX-Jevtana-Cares-v1.0-R1-isi.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-branded-v1.0-EN-R3/css/main.css",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-CARES-v1.0-EN-R1/INX-Jevtana-Cares-v1.0-R1-p6.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-CARES-v1.0-EN-R1/INX-Jevtana-Cares-v1.0-R1-p8.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Zaltrap-branded-v2.0-EN-R1/xml/Content.xml",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Jevtana-CARES-v1.0-EN-R1/INX-Jevtana-Cares-v1.0-R1-p7.html",
+		"/Users/jasonds/Sites/Intstrux/Sanofi_Zaltrap_1203_iNGSA/content/iNGSA-Content-Zaltrap-branded-v2.0-EN-R1/css/p1.css",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/js/vendor/modernizr-2.6.1.min.js",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/README.md",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/css/base/_fonts.scss",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/blog/2012-01-01-example-article.html.md",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/blog/2013-03-13-title.html.md",
+		"/Users/jasonds/Sites/themworks/themworks-blog/source/layouts/tag.html.erb ",
+		"/Users/jasonds/Sites/themworks/themworks-blog/build/index.html",
+		"/Users/jasonds/Sites/Intstrux/amp/onc-interactive-ads/ad_afinitor_022813/ad_afinitor_v6.html",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/partials/_settings.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/js/vendor/validate.js",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/js/vendor/modernizr-2.6.2.min.js",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/modules/_footer.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/layouts/partials/_header.erb",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/js/main.js",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/pages/_resume.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/pages/_global-layout.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/modules/_contact.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/modules/_skills.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/modules/_intro.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/base/_fonts.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/modules/_blocks.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/modules/respond.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/modules/_header.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/layouts/layout.erb",
+		"/Users/jasonds/AeroFS/6-temp/h5bp-html5-boilerplate-3cd1967/.htaccess",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/partials/_layouts.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/js/vendor/jquery.jkit.1.1.16.min.js",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/layouts/partials/_footer.erb",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/main.css.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/base/_base.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/index.html.erb",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/base/_type.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/partials/_styles.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/Gemfile",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/resume.html.erb",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/.htaccess",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/base/_root.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/modules/_about.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/css/partials/_mixins.scss",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/work.html.erb",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/php/contact.php",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/img/tool-icons/html5_semantics.svg",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/config.rb",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/fonts/audimat/stylesheet.css",
+		"/Users/jasonds/Sites/Intstrux/mamp/spsopenbook/sites/all/themes/intstrux-spsopenbook/Vagrantfile",
+		"/Users/jasonds/Downloads/spsopenbook_stage (1).sql",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/build/fonts/audimat/stylesheet.css",
+		"/Users/jasonds/Sites/personal/portfolio/basic-portfolio/sass/partials/_styles.scss",
+		"/Users/jasonds/Sites/personal/portfolio/basic-portfolio/sass/partials/_settings.scss",
+		"/Users/jasonds/Sites/personal/portfolio/basic-portfolio/sass/base/_type.scss",
+		"/Users/jasonds/Sites/personal/portfolio/basic-portfolio/sass/modules/_about.scss",
+		"/Users/jasonds/Sites/personal/portfolio/basic-portfolio/sass/modules/_intro.scss",
+		"/Users/jasonds/Sites/personal/portfolio/basic-portfolio/_footer.erb",
+		"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/source/_header.erb",
+		"/Users/jasonds/Sites/personal/portfolio/basic-portfolio/sass/modules/_header.scss",
+		"/Users/jasonds/Sites/personal/portfolio/basic-portfolio/sass/pages/_global-layout.scss",
+		"/Users/jasonds/Sites/personal/portfolio/basic-portfolio/sass/modules/_skills.scss",
+		"/Users/jasonds/Sites/personal/portfolio/basic-portfolio/config.rb",
+		"/Users/jasonds/Sites/personal/portfolio/basic-portfolio/sass/partials/_layouts.scss",
+		"/Users/jasonds/Sites/personal/portfolio/basic-portfolio/sass/pages/global-layout.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/partials/_layouts.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/partials/_mixins.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/modules/_footer.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/base/_fonts.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/modules/_about.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/partials/_styles.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/modules/_header.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/modules/_intro.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/main.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/base/_icons.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/modules/_contact.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/partials/_settings.scss",
+		"/Users/jasonds/Sites/personal/portfolio/index.html",
+		"/etc/paths",
+		"/Users/jasonds/.rvm/log/ruby-1.9.3-p374/make.log",
+		"/Users/jasonds/.rvmrc",
+		"/usr/local/project/path/.rvmrc",
+		"/Users/jasonds/Sites/personal/portfolio/fonts/audimat/specimen_files/specimen_stylesheet.css",
+		"/Users/jasonds/Sites/personal/portfolio/js/main.js",
+		"/Users/jasonds/Sites/personal/portfolio/sass/pages/global-layout.scss",
+		"/Users/jasonds/Sites/personal/portfolio/sass/base/_type.scss",
+		"/Users/jasonds/Sites/personal/portfolio/php/contact-thanks.php",
+		"/Users/jasonds/Sites/personal/portfolio/php/contact-process.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"debug",
+			"height",
+			"sortthu",
+			"all",
+			"selected",
+			" 0px",
+			"0px",
+			"sculp",
+			"berrytree",
+			"div",
+			"all",
+			"size",
+			"default",
+			"                \n",
+			"CARES",
+			"Jevtana CARES",
+			"INX-Zaltrap-v1.0-R2",
+			"pdf/INX-Jevtana-CARES-v1.0-EN-R1.pdf",
+			"opacity:0; display:none;",
+			"logo",
+			"logi",
+			"logo",
+			"+",
+			"url",
+			"active",
+			"fadein",
+			"$",
+			"icn",
+			" // IE9 SVG, needs conditional override of 'filter' to 'none'\n  $experimental-support-for-svg: true;",
+			"span",
+			"wrap",
+			"rem",
+			"ie8",
+			"bg1",
+			"px",
+			"rem",
+			"px",
+			"pxpx",
+			"px",
+			"pox",
+			"px",
+			"shadow",
+			"px",
+			"-webkit-tap-highlight-color",
+			"px",
+			"orange",
+			"border-bottom",
+			"$yellow",
+			"$blue",
+			"color",
+			"$blue",
+			"1px",
+			"$formClr",
+			".2",
+			"block",
+			"red",
+			"aside",
+			"span",
+			"h4",
+			"side",
+			"block",
+			"tablet",
+			"h4",
+			"hover",
+			"email",
+			"blue",
+			"h2",
+			"3",
+			"primary-header-inn",
+			"name",
+			"your",
+			"spc",
+			"tablet",
+			"large",
+			"mixin",
+			"text-wrap",
+			"5",
+			"gtr",
+			"border",
+			"$base-leader",
+			"logo",
+			"$base-leader",
+			"gtr",
+			"$gtr-large",
+			"gtr",
+			"portrait",
+			"width: 100",
+			"columns-2",
+			"border",
+			"logo",
+			"form",
+			"forom",
+			"header-",
+			"1",
+			"max-width",
+			"picture",
+			"image",
+			"row",
+			"view",
+			"image",
+			"trans",
+			"members",
+			"input",
+			"255",
+			"icn-wrap",
+			"placeholderClr",
+			"0",
+			"255",
+			"3",
+			"10",
+			"color",
+			"padding",
+			"nav",
+			"left",
+			"</em>",
+			"<em>",
+			"text-highlight",
+			"text\ntext-highlight",
+			"//----------------------------------------------------------------------------",
+			"highlight",
+			"/span",
+			"span",
+			"span class=\"text-highlight\"",
+			"content",
+			"ipad",
+			"em",
+			"h",
+			"content-wr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "layouts/article.html.erb",
+					"settings":
+					{
+						"buffer_size": 561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/pages/_global-layout.scss",
+					"settings":
+					{
+						"buffer_size": 347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/modules/_article-menu.scss",
+					"settings":
+					{
+						"buffer_size": 4330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3482,
+								2673
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 192.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/partials/_settings.scss",
+					"settings":
+					{
+						"buffer_size": 4816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4602,
+								4602
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3748.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html.erb",
+					"settings":
+					{
+						"buffer_size": 422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/partials/_layouts.scss",
+					"settings":
+					{
+						"buffer_size": 1716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								457
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 348.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/main.css.scss",
+					"settings":
+					{
+						"buffer_size": 507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								502
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/partials/_styles.scss",
+					"settings":
+					{
+						"buffer_size": 1347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1191,
+								1191
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								791,
+								782
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 206.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "css/modules/_header.scss",
+					"settings":
+					{
+						"buffer_size": 1214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1085,
+								1085
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 624.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/jasonds/Sites/themworks/blog-middleman/middleman-html5-blog/config.rb",
+					"settings":
+					{
+						"buffer_size": 2184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1813,
+								1813
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"lay",
+				"css/partials/_layouts.scss"
+			],
+			[
+				"head",
+				"css/modules/_header.scss"
+			],
+			[
+				"glob",
+				"css/pages/_global-layout.scss"
+			],
+			[
+				"js",
+				"js/main.js"
+			],
+			[
+				"set",
+				"css/partials/_settings.scss"
+			],
+			[
+				"sty",
+				"css/partials/_styles.scss"
+			],
+			[
+				"main",
+				"css/main.css.scss"
+			],
+			[
+				"glo",
+				"css/pages/_global-layout.scss"
+			],
+			[
+				"layou",
+				"css/partials/_layouts.scss"
+			],
+			[
+				"he",
+				"layouts/head.erb"
+			],
+			[
+				"ind",
+				"index.html.erb"
+			],
+			[
+				"foot",
+				"layouts/foot.erb"
+			],
+			[
+				"gl",
+				"css/pages/_global-layout.scss"
+			],
+			[
+				"sett",
+				"css/partials/_settings.scss"
+			],
+			[
+				"cale",
+				"layouts/calendar.html.erb"
+			],
+			[
+				"art",
+				"layouts/article.html.erb"
+			],
+			[
+				"arti",
+				"layouts/article.html.erb"
+			],
+			[
+				".css",
+				"includes/jquery.fancybox-1.3.4/style.css"
+			],
+			[
+				"typ",
+				"sass/base/_type.scss"
+			],
+			[
+				"root",
+				"sass/base/_root.scss"
+			],
+			[
+				"se",
+				"sass/partials/_settings.scss"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"md",
+				"blog/2012-01-01-example-article.html.md"
+			],
+			[
+				".md",
+				"blog/2013-03-13-title.html.md"
+			],
+			[
+				"font",
+				"css/base/_fonts.scss"
+			],
+			[
+				"type",
+				"css/base/_type.scss"
+			],
+			[
+				".m",
+				"blog/2013-03-13-title.html.md"
+			],
+			[
+				"cal",
+				"layouts/calendar.html.erb"
+			],
+			[
+				"tag",
+				"layouts/tag.html.erb "
+			],
+			[
+				"m",
+				"css/partials/_mixins.scss"
+			],
+			[
+				"heade",
+				"source/css/modules/_header.scss"
+			],
+			[
+				"cont",
+				"css/modules/_contact.scss"
+			],
+			[
+				"intr",
+				"css/modules/_intro.scss"
+			],
+			[
+				".js",
+				"js/main.js"
+			],
+			[
+				"rsum",
+				"resume.html.erb"
+			],
+			[
+				"resu",
+				"css/pages/_resume.scss"
+			],
+			[
+				"resum",
+				"resume.html.erb"
+			],
+			[
+				"base",
+				"css/base/_base.scss"
+			],
+			[
+				"respon",
+				"css/modules/respond.scss"
+			],
+			[
+				"resp",
+				"css/modules/respond.scss"
+			],
+			[
+				"footer",
+				"layouts/partials/_footer.erb"
+			],
+			[
+				"mod",
+				"js/vendor/modernizr-2.6.2.min.js"
+			],
+			[
+				"resume",
+				"resume.html.erb"
+			],
+			[
+				"layout",
+				"layouts/layout.erb"
+			],
+			[
+				"jk",
+				"js/vendor/jquery.jkit.1.1.16.min.js"
+			],
+			[
+				"hea",
+				"layouts/partials/_header.erb"
+			],
+			[
+				"foo",
+				"layouts/partials/_footer.erb"
+			],
+			[
+				"modern",
+				"js/vendor/modernizr-2.6.2.min.js"
+			],
+			[
+				"s",
+				"css/partials/_settings.scss"
+			],
+			[
+				"ty",
+				"css/base/_type.scss"
+			],
+			[
+				"skill",
+				"css/modules/_skills.scss"
+			],
+			[
+				"res",
+				"resume.html.erb"
+			],
+			[
+				"",
+				".htaccess"
+			],
+			[
+				"conta",
+				"css/modules/_contact.scss"
+			],
+			[
+				"intro",
+				"css/modules/_intro.scss"
+			],
+			[
+				"block",
+				"css/modules/_blocks.scss"
+			],
+			[
+				"bloc",
+				"css/modules/_blocks.scss"
+			],
+			[
+				"styl",
+				"css/partials/_styles.scss"
+			],
+			[
+				"fon",
+				"css/base/_fonts.scss"
+			],
+			[
+				"blo",
+				"css/modules/_blocks.scss"
+			],
+			[
+				"ski",
+				"css/modules/_skills.scss"
+			],
+			[
+				"about",
+				"css/modules/_about.scss"
+			],
+			[
+				"skil",
+				"css/modules/_skills.scss"
+			],
+			[
+				"int",
+				"css/modules/_intro.scss"
+			],
+			[
+				"la",
+				"css/partials/_layouts.scss"
+			],
+			[
+				"fonts",
+				"css/base/_fonts.scss"
+			],
+			[
+				"into",
+				"css/modules/_intro.scss"
+			],
+			[
+				"fo",
+				"layouts/partials/_footer.erb"
+			],
+			[
+				"con",
+				"php/contact.php"
+			],
+			[
+				"respo",
+				"css/modules/respond.scss"
+			],
+			[
+				"header",
+				"css/modules/_header.scss"
+			],
+			[
+				"ipad",
+				"css/modules/_ipad.scss"
+			],
+			[
+				"abut",
+				"css/modules/_about.scss"
+			],
+			[
+				"mix",
+				"css/partials/_mixins.scss"
+			],
+			[
+				"settings",
+				"css/partials/_settings.scss"
+			],
+			[
+				"mixi",
+				"css/partials/_mixins.scss"
+			],
+			[
+				"mi",
+				"css/partials/_mixins.scss"
+			],
+			[
+				"f",
+				"layouts/partials/_footer.erb"
+			],
+			[
+				"conf",
+				"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/config.rb"
+			],
+			[
+				"style",
+				"css/partials/_styles.scss"
+			],
+			[
+				"uplo",
+				"sass/overrides/_upload.scss"
+			],
+			[
+				"des",
+				"sass/responsive/_desktop.scss"
+			],
+			[
+				"mem",
+				"sass/overrides/_members.scss"
+			],
+			[
+				"uploa",
+				"sass/overrides/_upload.scss"
+			],
+			[
+				"desk",
+				"sass/responsive/_desktop.scss"
+			],
+			[
+				"land",
+				"sass/responsive/_ipad-landscape.scss"
+			],
+			[
+				"memb",
+				"sass/overrides/_members.scss"
+			],
+			[
+				"confi",
+				"config.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"config",
+				"config.rb"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"abou",
+				"sass/modules/_about.scss"
+			],
+			[
+				"l",
+				"sass/partials/_layouts.scss"
+			],
+			[
+				"iph",
+				"fonts/audimat/specimen_files/specimen_stylesheet.css"
+			],
+			[
+				"stye",
+				"sass/partials/_styles.scss"
+			],
+			[
+				"mixin",
+				"sass/partials/_mixins.scss"
+			],
+			[
+				"globa",
+				"sass/pages/global-layout.scss"
+			],
+			[
+				"icon",
+				"sass/base/_icons.scss"
+			],
+			[
+				"contac",
+				"sass/modules/_contact.scss"
+			],
+			[
+				"man",
+				"sass/main.scss"
+			],
+			[
+				"g",
+				"sass/pages/global-layout.scss"
+			],
+			[
+				"sk",
+				"sass/modules/_skills.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jasonds/Sites/personal/portfolio/middleman-portfolio/portfolio.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}
