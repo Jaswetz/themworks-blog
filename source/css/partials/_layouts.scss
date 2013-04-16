@@ -1,5 +1,5 @@
 //----------------------------------------------------------------------------
-// Layouts  
+// Layouts
 // Extends for shared layouts
 //----------------------------------------------------------------------------
 
@@ -9,18 +9,18 @@
 
 %clr
 {
-	&:before, 
-	&:after 
+	&:before,
+	&:after
 	{
 		content: " ";
 		display: table;
 	}
 
-	&:after 
+	&:after
 	{
 		clear: both;
 	}
-}	
+}
 
 
 /////////////
@@ -59,7 +59,7 @@
 }
 
 // hide from both screenreaders and browsers: h5bp.com/u
-%hidden 
+%hidden
 {
     display: none !important;
     visibility: hidden;
@@ -75,7 +75,7 @@
     /* IE 6/7 fallback */
     *text-indent: -9999px;
 
-    &:before 
+    &:before
 	{
     	content: "";
     	display: block;
@@ -85,14 +85,14 @@
 }
 
 // hide visually and from screenreaders, but maintain layout
-%invisible 
+%invisible
 {
     visibility: hidden;
 }
 
 // hide only visually, but have it available for screenreaders: h5bp.com/v
 // element-invisible as defined by http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
-%element-invisible 
+%element-invisible
 {
 	position: absolute !important;
 	overflow: hidden;
@@ -113,12 +113,15 @@
 	display: block;
 	position: relative;
 	width: 100%;
-	display: inline; 
+	display: inline;
 }
 
 %full-width
 {
-	@include span-columns(12,12);
+	@include span-columns(16,16);
 }
+
+
+
 
 

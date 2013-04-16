@@ -1,0 +1,104 @@
+//----------------------------------------------------------------------------
+// Article Menu
+// drop down article list
+//----------------------------------------------------------------------------
+
+.btn-articleList
+{
+	float: left;
+	padding: .6em .5em .6em .5em;
+
+	@extend %btn;
+	@extend %btn-flat;
+}
+
+i.icon-dots
+{
+	display: block;
+	width: 30px;
+	height: 8px;
+	background-image: url(data:image/png;base64,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);
+	background-repeat: no-repeat;
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+
+	i.icon-dots
+	{
+		background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAQCAYAAABKkhw/AAAA3UlEQVR42u3XvRHCIBjG8XS2jMAC7sAI6SwsZKSMkBFwg3cEVrDRlg0enzSecvqGjxK5+5Xh7n8kAaZ83C9HT0LIBHJT47idzjMFQibQ3Drv43pwFAgZIf/zQcZYioQdgUxFqCEh7BAyFaHmFaqLZL/FJkKhSKYwNhIKRTKFsZFQKH1EKyurWQqChVBJCoIXQqX4/s2ikVViHaGRU2ItoZHfgqUjeFGC147gtXl1dbIFo4MowakjOCnBQmjVGwwlGD2UYPyDKwz3Sg/30xpuWxrq4DHc0XLIy8Nw18Mnhk11L2qD5xEAAAAASUVORK5CYII=);
+		background-size: 30px 8px;
+
+	}
+}
+
+.article-list-bar
+{
+	position: absolute;
+	z-index: 5;
+	top: 2.5em;
+	left: 1em;
+}
+
+.article-list-.scroll
+{
+@extend %full-width;
+	@include transition-property(all);
+	@include transition-duration(.35s);
+	@include transition-timing-function(ease-in-out);
+
+	position: absolute;
+	top: -10em;
+	// margin-left: 85px;
+
+	overflow: auto;
+	opacity: 0;
+
+	&.active
+	{
+		top: .2em;
+		opacity: 1;
+	}
+}
+
+.article-list-.wrap
+{
+	@extend %full-width;
+	position: relative;
+	overflow: scroll;
+	background: $white;
+}
+
+.article-list-item
+{
+	float: left;
+	margin-right: 2px;
+	width: 298px;
+	background: $gray-dark;
+
+	&:first-child
+	{
+		margin-left: 85px;
+	}
+
+	h1
+	{
+		padding: .25em .5em;
+		color: $red;
+		font-size: $unit-l;
+	}
+
+	time
+	{
+		margin: .5em;
+		border-top: 1px solid $yellow;
+		background: lighten($gray-dark, 5%);
+		color: $white;
+		text-align: center;
+	}
+}

@@ -1,5 +1,5 @@
 //----------------------------------------------------------------------------
-// Global Layout  
+// Global Layout
 //----------------------------------------------------------------------------
 
 body
@@ -10,7 +10,8 @@ body
 .page
 {
 	@include container;
-	max-width: 600px; 
 	@include leader(1, $bs-font-size, margin);
 	@include trailer(1, $bs-font-size, margin);
+	max-width: 600px;
 }
+

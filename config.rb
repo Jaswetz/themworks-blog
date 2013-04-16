@@ -1,5 +1,5 @@
 #Livereload
-activate :livereload
+# activate :livereload
 
 
 ###
@@ -21,7 +21,7 @@ set :index_file, "index.html"
 #MARKDOWN
 set :markdown_engine, :redcarpet
 set :markdown,  :fenced_code_blocks => true,
-                :autolink => true, 
+                :autolink => true,
                 :smartypants => true
 
 activate :blog do |blog|
@@ -29,7 +29,7 @@ activate :blog do |blog|
   blog.sources = "blog/:title.html"
   blog.layout = "layouts/article"
   blog.default_extension = ".md"
-  blog.tag_template  = "layouts/tag.html"
+  # blog.tag_template  = "layouts/tag.html"
   # blog.prefix = "blog"
 end
 
@@ -39,7 +39,7 @@ end
 ###
 
 # BLOG
-# page "blog/*", :layout => :article  
+# page "blog/*", :layout => :article
 
 # Per-page layout changes:
 #
@@ -82,10 +82,10 @@ set :images_dir, 'img'
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
-  # activate :minify_css
+  activate :minify_css
 
   # Minify Javascript on build
-  # activate :minify_javascript
+  activate :minify_javascript
 
   # Enable cache buster
   # activate :cache_buster
@@ -96,7 +96,7 @@ configure :build do
   # Compress PNGs after build
   # First: gem install middleman-smusher
   # require "middleman-smusher"
-  # activate :smusher
+  activate :smusher
 
   # Or use a different image path
   # set :http_path, "/Content/images/"

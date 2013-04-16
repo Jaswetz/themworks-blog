@@ -1,5 +1,5 @@
 //----------------------------------------------------------------------------
-// Styles  
+// Styles
 //----------------------------------------------------------------------------
 
 // Animations
@@ -63,6 +63,20 @@
 	text-decoration: none;
 
 	/* Other */
+	cursor: pointer;
 	@extend %df-trans;
+}
+
+%btn-flat
+{
+	// Style
+	background: $gray-dark;
+	color: white;
+
+	&:active,
+	&:hover
+	{
+		background: lighten($gray-dark, 10%);
+	}
 }
 

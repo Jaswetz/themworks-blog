@@ -1,11 +1,6 @@
 //----------------------------------------------------------------------------
-// Header  
+// Header
 //----------------------------------------------------------------------------
-
-header.primary-header
-{
-
-}
 
 .logo
 {
@@ -15,8 +10,7 @@ header.primary-header
 	@extend %trailer-padding-1;
 
 	// Style
-  background: url('../img/logo2.png'); 
-	@include image-2x('../img/logo2@2x.png', 51px, 57px);
+  background: url('../img/logo2.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	border-bottom: 1px solid $creamDark;
@@ -24,6 +18,23 @@ header.primary-header
 
 	@extend %hide-text;
 }
+
+  @media
+    only screen and (-webkit-min-device-pixel-ratio: 2),
+    only screen and (   min--moz-device-pixel-ratio: 2),
+    only screen and (     -o-min-device-pixel-ratio: 2/1),
+    only screen and (        min-device-pixel-ratio: 2),
+    only screen and (                min-resolution: 192dpi),
+    only screen and (                min-resolution: 2dppx) {
+
+    .logo
+    {
+      background-image: url('../img/logo2@2x.png');
+      background-size: 51px 57px;
+
+    }
+   }
+
 
 $branding-height: $base-half-leader;
 
@@ -33,7 +44,7 @@ $branding-height: $base-half-leader;
   {
     float: left;
     width: 33.333333333%;
-	height: $branding-height;
+	  height: $branding-height;
   }
 
   .orange
@@ -48,7 +59,7 @@ $branding-height: $base-half-leader;
 
   .yellow
   {
-    background: $yellow; 
+    background: $yellow;
   }
 
 }
